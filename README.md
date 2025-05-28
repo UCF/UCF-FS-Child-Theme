@@ -7,4 +7,8 @@ Child theme for UCF Faciliites. Parent theme is Colleges-Theme.
 afit@ucf.edu
 
 ## Website
-https://fs.ucf.edu
+Websites:
+http://fs.ucf.edu/
+https://test-ucf-ms1.pantheonsite.io/fs-ucf-edu/
+https://dev-ucf-ms1.pantheonsite.io/fs-ucf-edu
+
